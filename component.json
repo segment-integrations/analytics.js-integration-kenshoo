@@ -6,7 +6,7 @@
   "license": "MIT",
   "main": "lib/index.js",
   "dependencies": {
-    "ndhoule/includes": "1.0.0",
+    "ndhoule/includes": "^1.0.0",
     "segmentio/analytics.js-integration": "0.3.x",
     "ianstormtaylor/is": "0.1.0"
   },
