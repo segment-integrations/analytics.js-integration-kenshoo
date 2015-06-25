@@ -2,12 +2,12 @@
   "name": "analytics.js-integration-kenshoo",
   "repo": "segment-integrations/analytics.js-integration-kenshoo",
   "description": "The Kenshoo analytics.js integration.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "main": "lib/index.js",
   "dependencies": {
     "ndhoule/includes": "^1.0.0",
-    "segmentio/analytics.js-integration": "0.3.x",
+    "segmentio/analytics.js-integration": "^1.0.0",
     "ianstormtaylor/is": "0.1.0"
   },
   "development": {
